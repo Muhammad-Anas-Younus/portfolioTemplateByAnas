@@ -1,0 +1,43 @@
+{
+    "name": "John Doe",
+    "role": "Full Stack Developer",
+    "email": "something@gmail.com",
+    "tagline": "lorem ipsum something something",
+    "aboutme": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat. Quisque vitae ligula consequat.",
+    "skills": ["html", "css", "javascript", "node js ", "react js", "express js", "mongodb"],
+    "projects": [
+        {   
+            "id": "01",
+            "name": "Project Name",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
+            "websiteLink": "#",
+            "codeLink": "#"
+
+        },
+        {
+            "id": "02",
+            "name": "Project Name",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
+            "websiteLink": "#",
+            "codeLink": "#"
+        },
+        {
+            "id": "03",
+            "name": "Project Name",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
+            "websiteLink": "#",
+            "codeLink": "#"
+        },
+        {
+            "id": "04",
+            "name": "Project Name",
+            "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar hendrerit magna sed semper. Nunc justo diam, rutrum vitae suscipit ullamcorper, sodales nec risus. Proin ligula dolor, eleifend non erat at, vulputate mollis dui. Nam a fermentum erat.",
+            "websiteLink": "#",
+            "codeLink": "#"
+        }
+    ],
+    "links": {
+        "github": "#",
+        "linkedin": "#"
+    }
+}

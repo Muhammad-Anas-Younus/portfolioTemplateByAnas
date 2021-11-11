@@ -48,8 +48,15 @@ Install the dependencies
  
   <h3>Editing your image</h3>
   move your image in the assets folder and change the relative path in the index.js file
-  <img src="https://ibb.co/5n6WLdv"/>
+  <img src="https://i.postimg.cc/T18tc3TX/index.png"/>
+  
+  <h3>Chaning colors</h3>
  
- 
- 
+  In the desktop version of this template, the four elements on the right side of the hero section that move when you move the mouse are png's, so you can't change their color,   but these png's are available in a number of colors on it's creator's website <a href="https://3d.khagwal.co/explorer/"></a> so i recommend that if you're going to change the   color palette of the website, change it according to the color of the png's.
+  or you can remove it all together.
+  
+  Since i'm using tailwind for this template, in case you want to change the colors of the website:
+  - go to tailwind.config.js
+  - change the colors accordingly
+  <img src="https://i.postimg.cc/xCPX6s2T/colors.png"/>
  

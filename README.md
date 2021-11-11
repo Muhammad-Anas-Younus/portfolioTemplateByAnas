@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>A clean and minimal portfolio template for developers</h1>
 
-## Getting Started
+<a href="https://portfoliotemplatebyanas.netlify.app/">Demo</a>
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3>Features</h3>
+<hr/>
+<ul>
+  <li>Using in demand frontend technologies like Next.js and Tailwindcss</li>
+  <li>No extra dependencies</li>
+  <li>Responsive</li>
+  <li>Free and easy to setup</li>
+  <li>Working contact form</li>
+ </ul>
+ 
+ <hr/>
+ 
+ <h3>How to setup</h3>
+ <p>First of all from your terminal, clone the portfolioTemplateByAnas repo</p>
+ ```bash
+ #clone the repository
+ $git clone https://github.com/Muhammad-Anas-Younus/portfolioTemplateByAnas.git
+ 
+ #cd into the repository
+ $cd portfolioTemplateByAnas
+ 
+ #remove the origin
+ $git remote remove origin
+ ```
+ <br/>
+ <p>Install the dependencies</p>
+ ```bash
+ #using npm
+ $npm install
+ 
+ #using yarn
+ $yarn install
+ ```
+ <br/>
+ 
+ <h3>Editing your information</h3>
+ 
+ <img src="https://ibb.co/Xjmm23B" alt="data.json file"/>
+ <img src="https://ibb.co/hKDKsLY" alt="data.json file"/>
+ In the assets folder i've created a data.json file, open it and edit your information accordingly.
+ 
+  <h3>Editing your image</h3>
+  move your image in the assets folder and change the relative path in the index.js file
+  <img src="https://ibb.co/5n6WLdv"/>
+ 
+ 
+ 
+ 

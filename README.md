@@ -16,17 +16,17 @@
  
  <h3>How to setup</h3>
  <p>First of all from your terminal, clone the portfolioTemplateByAnas repo</p>
- ```bash
  
- #clone the repository
- $git clone https://github.com/Muhammad-Anas-Younus/portfolioTemplateByAnas.git
- 
- #cd into the repository
- $cd portfolioTemplateByAnas
- 
- #remove the origin
- $git remote remove origin
- ```
+```bash
+#clone the repository
+$git clone https://github.com/Muhammad-Anas-Younus/portfolioTemplateByAnas.git
+
+#cd into repository
+$cd portfolioTemplateByAnas
+
+#remove the origin
+$git remote remove origin
+```
 
 <br/>
 Install the dependencies

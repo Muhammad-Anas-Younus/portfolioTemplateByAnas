@@ -42,7 +42,7 @@ Install the dependencies
  
  <h3>Editing your information</h3>
  
- <img src="https://ibb.co/Xjmm23B" alt="data.json file"/>
+ <img src='https://i.postimg.cc/QBvk4S2b/capute.png' border='0' alt='capute'/>
  <img src="https://ibb.co/hKDKsLY" alt="data.json file"/>
  In the assets folder i've created a data.json file, open it and edit your information accordingly.
  

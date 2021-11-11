@@ -17,6 +17,7 @@
  <h3>How to setup</h3>
  <p>First of all from your terminal, clone the portfolioTemplateByAnas repo</p>
  ```bash
+ 
  #clone the repository
  $git clone https://github.com/Muhammad-Anas-Younus/portfolioTemplateByAnas.git
  
@@ -26,8 +27,10 @@
  #remove the origin
  $git remote remove origin
  ```
- <br/>
- <p>Install the dependencies</p>
+
+<br/>
+Install the dependencies
+
  ```bash
  #using npm
  $npm install

@@ -52,7 +52,7 @@ Install the dependencies
   
   <h3>Chaning colors</h3>
  
-  In the desktop version of this template, the four elements on the right side of the hero section that move when you move the mouse are png's, so you can't change their color,   but these png's are available in a number of colors on it's creator's website <a href="https://3d.khagwal.co/explorer/"></a> so i recommend that if you're going to change the   color palette of the website, change it according to the color of the png's.
+  In the desktop version of this template, the four elements on the right side of the hero section that move when you move the mouse are png's, so you can't change their color,   but these png's are available in a number of colors on it's <a href="https://3d.khagwal.co/explorer/">creator's website</a> so i recommend that if you're going to change the   color palette of the website, change it according to the color of the png's.
   or you can remove it all together.
   
   Since i'm using tailwind for this template, in case you want to change the colors of the website:
@@ -60,3 +60,33 @@ Install the dependencies
   - change the colors accordingly
   <img src="https://i.postimg.cc/xCPX6s2T/colors.png"/>
  
+  <h3>Deployment</h3>
+  
+  * Since i'm using netlify forms for the contact form, i highly recommend that you use netlify if you want the contact form to work out of the box. 
+ 
+  - Upload the repository to your github.
+  - Login to your netlify account and click on new site from git
+    <img src="https://i.postimg.cc/gcX56rvj/sites.png"/>
+  - On the next page authorize git and follow the given instructions. 
+    <img src="https://i.postimg.cc/9MvLBtGM/authorize.png"/>
+  - Deploy the site
+ 
+ all of the form submissions can be seen on the forms tab of your site.
+ <img src="https://i.postimg.cc/nLfVN6pY/forms.png"/>
+ 
+ * if you want to be notified for every form submission, then. Go into your site settings > select forms > form notifications.
+ <img src="https://i.postimg.cc/C5BWhx4Z/formnotifications.png"/>
+ 
+ Your site is ready.
+ 
+ <h3>Contributions</h3>
+ feel free to contribute, let's make it one of the best portfolio templates out there - Together.
+ 
+ <h3>Star the repo 🌟 </h3>
+ If you like the template, give it a star by hitting the star button.
+ 
+ <h3>About the author</h3>
+ * Muhamamd Anas - <a href="https://www.linkedin.com/in/muhammad-anas-a3b17719a">Linkedin</a>, <a href="https://github.com/Muhammad-Anas-Younus">Github</a>, <a href="#">Portfolio</a>
+ 
+  <h3>Inspired by:</h3>
+  Special thanks to <a href="https://www.rammaheshwari.com/">Ram Maheshwari</a>, he's the creator of <a href="https://github.com/rammcodes/Dopefolio">Dopefolio</a>, which is another awesome develoepr portfolio template. Check it out and show him some love.
